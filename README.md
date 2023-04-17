@@ -53,7 +53,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class movement : MonoBehaviour
+public class player : MonoBehaviour
 {
     public float Xforce=2.0f,Yforce=20.0f,Zforce=2.0f;
     // Start is called before the first frame update
